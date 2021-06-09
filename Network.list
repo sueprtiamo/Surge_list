@@ -2,6 +2,7 @@
 
 # 钉钉
 DOMAIN-SUFFIX,*.dingtalk.com
+DOMAIN-SUFFIX,acs.m.taobao.com
 
 # Telegram
 DOMAIN-SUFFIX,t.me
